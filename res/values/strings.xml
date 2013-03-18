@@ -6,5 +6,6 @@
    	<string name="reboot">Reboot</string>
    	<string name="poweroff">Power Off</string>
    	<string name="recovery">Recovery</string>
+   	<string name="warning">Warning: before rebooting to recovery, make sure you don\'t have any Custom Firmware files in the root of your sd, otherwise it will automatically start installing them. If this is what you don\'t want, pull microSD off right after reboot.</string>
    	
 </resources>
