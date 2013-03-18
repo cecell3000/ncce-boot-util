@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NCCE BootUtility</string>
+   	<string name="main_title">Make your choice:</string>
+   	<string name="reboot">Reboot</string>
+   	<string name="poweroff">Power Off</string>
+   	<string name="recovery">Recovery</string>
+   	
+</resources>
